@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Picoholic",
+    "slug": "Picoholic",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.anonymous.Picoholic"
+    }
+  },
+  "name": "Picoholic"
+}
